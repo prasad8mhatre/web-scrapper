@@ -1,0 +1,8 @@
+selenium
+dnspython
+verify-email
+urllib3
+HTMLParser
+lxml
+beautifulsoup4==4.6.0
+requests==2.18.4
